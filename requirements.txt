@@ -1,0 +1,10 @@
+pandas
+beautifulsoup4
+textstat
+scikit-learn
+sentence-transformers
+nltk
+numpy
+joblib
+requests
+jupyter
